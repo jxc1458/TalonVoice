@@ -1,2 +1,6 @@
-test function: user.favorites_toggle()
-test original: user.favorite_alphabet()
+favorite show: user.favorites_toggle()
+favorite store one: user.store_fav1()
+favorite store (two|to|too): user.store_fav2()
+favorite store (three|tree): user.store_fav3()
+favorite store (four|for): user.store_fav4()
+favorite store five: user.store_fav5()

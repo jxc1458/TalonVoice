@@ -75,7 +75,7 @@ def gui(gui: imgui.GUI):
     gui.button(fav4)
     gui.button(fav5)
     gui.line()
-    gui.text("loaded command")
+    gui.text("Loaded Command:")
     gui.text(prev_command)
     
     gui.spacer()
